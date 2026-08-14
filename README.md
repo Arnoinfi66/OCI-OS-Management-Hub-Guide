@@ -2,7 +2,6 @@
 
 ## Overview
 
-This repository documents my product usage and understanding of OS Management Hub in Oracle Cloud Infrastructure.
 The repository explains how OS Management Hub is used to manage operating system updates, software sources, patch scheduling, package updates, and managed Oracle Linux instances from OCI.
 My focus was to explain the basic flow clearly: the administrator works from the OCI Console, OS Management Hub coordinates the patch operation, Oracle Cloud Agent runs the update on the instance, and software sources provide the required packages.
 This contribution demonstrates my understanding of how OS Management Hub helps manage operating system patching and package lifecycle for OCI compute instances. No client-confidential, proprietary, or project-specific information is included.
