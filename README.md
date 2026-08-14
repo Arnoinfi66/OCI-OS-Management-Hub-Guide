@@ -1,4 +1,4 @@
-# OCI-OS-Management-Hub-Guide
+# OCI OS Management Hub Guide
 
 ## Overview
 
