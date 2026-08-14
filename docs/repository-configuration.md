@@ -25,9 +25,7 @@ Examples include:
 ## Why Repository Configuration Matters
 
 Repository configuration is important because managed instances should use approved and consistent package sources.
-
 If repositories are not controlled properly, instances may receive inconsistent package versions or unapproved packages.
-
 Centralized software source management helps keep the update process more controlled.
 
 ---
@@ -48,7 +46,6 @@ flowchart TD
 ## Step 1 - Open Software Sources
 
 From the OCI Console, administrators can navigate to OS Management Hub and review available software sources.
-
 This helps confirm which repositories are available for use.
 
 ---
@@ -56,7 +53,6 @@ This helps confirm which repositories are available for use.
 ## Step 2 - Attach Software Sources
 
 A software source must be attached to the managed instance or group before package updates can be applied.
-
 This ensures that the instance receives packages from the intended source.
 
 ---
@@ -64,7 +60,6 @@ This ensures that the instance receives packages from the intended source.
 ## Step 3 - Use During Updates
 
 During a patch operation, the managed instance retrieves packages from the attached software sources.
-
 Example package update command on Oracle Linux:
 
 ```bash
